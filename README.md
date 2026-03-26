@@ -52,7 +52,7 @@ digital-literacy-project/
 │   ├──README.md                           ←Readme file of Task
 │   ├── github-profile.png                 ← Screenshot of GitHub profile
 │   ├── linkedin-profile.png               ← Screenshot of LinkedIn profile
-│   ├── Research Gate-profile.png          ← Screenshot of Kaggle profile
+│   ├── Research Gate-profile.png          ← Screenshot of Research Gate profile
 │   └── Project Report Task 2.md           ← Brief description
 │
 ├── task-3-platforms/
