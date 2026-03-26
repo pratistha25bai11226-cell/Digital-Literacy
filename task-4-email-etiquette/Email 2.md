@@ -18,4 +18,4 @@ I have attached my résumé and academic transcript for your review. I would be 
 Thank you for considering my application. I look forward to hearing from you.
  
 Yours sincerely,
-Pratistha Mohan
+Pratistha Mohan.
