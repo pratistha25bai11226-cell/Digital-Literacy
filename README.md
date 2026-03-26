@@ -161,7 +161,7 @@ A realistic scenario based on the widely documented OLX Army Officer scam patter
 |---|---|
 | 🧠 Digital Literacy Quiz (Google Form) | *(https://docs.google.com/forms/d/e/1FAIpQLScsHkj7xIJ65PxNUZdPRbnTv49ERPY-J0u9bS9jqzZA99UebQ/viewform?usp=dialog)* |
 | 💼 LinkedIn Profile | *(https://www.linkedin.com/in/pratistha-mohan-4582603ba/?skipRedirect=true)* |
-| 🐙 GitHub Profile | *(https://github.com/pratistha25bai11226-cell/Digital-Literacy)* |
+| 🐙 GitHub Profile | *(https://github.com/pratistha25bai11226-cell)* |
 | 📊 Research Gate | *(https://www.researchgate.net/profile/Pratistha-Mohan?ev=hdr_xprf)* |
 | 🚨 Cybercrime Reporting Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
 | 📞 Cyber Helpline | 1930 |
