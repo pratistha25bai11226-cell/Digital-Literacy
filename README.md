@@ -97,7 +97,7 @@ Set up professional profiles on three platforms to build a foundational digital 
 
 | Platform | Purpose | Profile Link |
 |---|---|---|
-| **GitHub** | Code hosting, portfolio, open source   | *(https://github.com/pratistha25bai11226-cell/Digital-Literacy)* |
+| **GitHub** | Code hosting, portfolio, open source   | *(https://github.com/pratistha25bai11226-cell)* |
 | **LinkedIn** | Professional networking, internships | *(https://www.linkedin.com/in/pratistha-mohan-4582603ba/?skipRedirect=true)* |
 | **Reserch Gate** | Data science learning and competitions | *(https://www.researchgate.net/profile/Pratistha-Mohan?ev=hdr_xprf)* |
 
