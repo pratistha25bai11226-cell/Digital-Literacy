@@ -1,4 +1,4 @@
-# digitalliteracy
+# DigitalLiteracy
 # Hi, I'm Pratistha Mohan
 
 **B.Tech — CSE (AI ML)**
